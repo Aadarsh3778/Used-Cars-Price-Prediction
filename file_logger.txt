@@ -1,0 +1,154 @@
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8324937492673143, MSE : 1.8655914345447118,  RMSE : 1.3658665507818513
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8307056962419688, MSE : 1.8858380096323122,  RMSE : 1.3732581729712414
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : X has 9 features, but RandomForestRegressor is expecting 8 features as input.
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8361820683164087, MSE : 1.8779239266109917,  RMSE : 1.370373644890689
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.808924855416035, MSE : 1.726339558546196,  RMSE : 1.31390241591459
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8391596617858939, MSE : 1.8717168151469197,  RMSE : 1.3681070188939606
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset Downloaded after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.837896858659083, MSE : 1.8651254164734778,  RMSE : 1.3656959458362163
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8401183027926057, MSE : 1.8840820539828924,  RMSE : 1.3726186848440074
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.839235246148284, MSE : 1.8722339324498722,  RMSE : 1.3682959959196959
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8318697906564827, MSE : 1.847511892987266,  RMSE : 1.3592320968058642
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8325770223832579, MSE : 1.831173383351185,  RMSE : 1.3532085513146836
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting into traning and testing data with testing size as 0.20
+2022-03-15 : pridiction started on traning data
+2022-03-15 : pridiction on traning data complete!
+2022-03-15 : MAE : 0.8414633004710476, MSE : 1.9110127903985172,  RMSE : 1.3823938622543566
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : Preprocessing for test data Started
+2022-03-15 : Preprocessing for test data complete
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
